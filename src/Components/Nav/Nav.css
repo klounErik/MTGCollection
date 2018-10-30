@@ -1,0 +1,27 @@
+.Nav{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    height: 125px;
+    background-color: black;
+}
+
+.Logo{
+    margin: 35px;
+}
+
+.Mtgcolors{
+    margin: 10px;
+}
+
+.Nav-Links{
+    display: flex;
+    align-self: center;
+}
+
+.Nav-Links a{
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
